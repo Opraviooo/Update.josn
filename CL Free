@@ -1,1 +1,9 @@
-ghgef
+{
+  "show_dialog": true,
+  "title": "OPMODS™ v3.1",
+  "subtitle": "New features added!",
+  "description": "Download latest mods. Join Telegram!",
+  "show_instagram": false,
+  "telegram_url": "https://t.me/OpModsOfficial",
+  "youtube_url": "https://youtube.com/@OpModsYT"
+}
