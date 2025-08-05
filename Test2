@@ -1,7 +1,7 @@
 {
   "dialog": {
     "enabled": true,
-    "title": "OPMODS9™",
+    "title": "OPMODS™",
     "description": "Modified by OpMods. Stay updated with the latest modded apps and games.",
     "telegram": "https://t.me/YOUR_CHANNEL",
     "instagram": "https://instagram.com/YOUR_PAGE",
@@ -16,6 +16,7 @@
       "https://i.postimg.cc/8P5NYjKc/kj-worldlllllll-20250717-0001.jpg",
       "https://i.postimg.cc/Qx0M5hV2/lol.jpg",
       "https://i.postimg.cc/MGKwS2ZR/ai-spectrys-20250726-0003.jpg"
+      "https://i.postimg.cc/Qx0M5hV2/lol.jpg"
     ],
     "rotate_interval_seconds": 10
   },
