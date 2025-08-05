@@ -18,7 +18,7 @@
       "https://i.postimg.cc/qvM6HwTm/20250805-152322.jpg",
       "https://i.postimg.cc/sxTKLcD7/20250805-152649.jpg"
     ],
-    "rotate_interval_seconds": 1
+    "rotate_interval_seconds": 0.1
   },
   "netview": {
     "bg_url": "https://i.postimg.cc/0QT4WmwT/nu.jpg"
