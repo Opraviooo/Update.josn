@@ -13,13 +13,12 @@
   },
   "orbital": {
     "image_urls": [
-      "https://i.postimg.cc/63qHmnHg/devil-8420-20250805-0001.webp",
-      "https://i.postimg.cc/5NBZv5DS/visinaire-ai-20250805-0001.jpg",
-      "https://i.postimg.cc/RZCbHk7v/bl-farouk-20250805-0001.webp",
+      "https://i.postimg.cc/3wKJ8qXC/lol.jpg",
+      "https://i.postimg.cc/sDQMqbmM/kj-worldlllllll-20250717-0001.jpg",
       "https://i.postimg.cc/qvM6HwTm/20250805-152322.jpg",
       "https://i.postimg.cc/sxTKLcD7/20250805-152649.jpg"
     ],
-    "rotate_interval_seconds": 5
+    "rotate_interval_seconds": 1
   },
   "netview": {
     "bg_url": "https://i.postimg.cc/0QT4WmwT/nu.jpg"
