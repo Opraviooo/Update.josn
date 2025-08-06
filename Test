@@ -1,3 +1,4 @@
 {
-  "image_url": "https://i.postimg.cc/8P5NYjKc/kj-worldlllllll-20250717-0001.jpg"
+  "enabled": true,
+  "description": "This dialog description is now controlled online via JSON!"
 }
