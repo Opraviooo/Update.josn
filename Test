@@ -1,4 +1,4 @@
 {
-  "enabled": true,
+  "enabled": false,
   "description": "This dialog description is now controlled online via JSON!"
 }
