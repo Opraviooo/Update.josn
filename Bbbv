@@ -1,12 +1,13 @@
 {
   "show_dialog": true,
-  "hide_dismiss_button": true,
-  
-  "dialog_title": "OPMODS™",
+  "allow_dont_show_again": true,
+  "dialog_title": "OPMODS99™",
   "dialog_subtitle": "By OpMods",
-  "dialog_message": "Welcome to OpMods",
+  "dialog_message": "Stay updated with the",
   "dialog_button_continue": "Continue",
   "dialog_button_join": "Join Now",
-
-  "join_url": "https://t.me/YOUR_CHANNEL"
+  "join_url": "https://t.me/YOUR_CHANNEL",
+  "telegram_url": "https://t.me/YOUR_CHANNEL",
+  "instagram_url": "https://instagram.com/YOUR_CHANNEL",
+  "youtube_url": "https://youtube.com/YOUR_CHANNEL"
 }
