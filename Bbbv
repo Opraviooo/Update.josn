@@ -1,5 +1,5 @@
 {
-  "show_dialog": true,
+  "show_dialog": false,
   "allow_dont_show_again": true,
   "dialog_title": "OPMODS™",
   "dialog_subtitle": "By OpMods",
