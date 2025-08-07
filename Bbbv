@@ -1,17 +1,12 @@
 {
   "show_dialog": true,
-
-  "dialog_title": "OPMODS99™",
-  "dialog_subtitle": "OPMODS99™",
-  "dialog_message": "Stay updated with the latestgggggg modded apps, games, and updates.",
-
+  "hide_dismiss_button": true,
+  
+  "dialog_title": "OPMODS™",
+  "dialog_subtitle": "By OpMods",
+  "dialog_message": "Welcome to OpMods",
   "dialog_button_continue": "Continue",
   "dialog_button_join": "Join Now",
 
-  "join_url": "https://t.me/your_join_link",
-  "telegram_url": "https://t.me/your_telegram",
-  "instagram_url": "https://instagram.com/your_page",
-  "youtube_url": "https://youtube.com/your_channel",
-
-  "hide_dismiss_button": false
+  "join_url": "https://t.me/YOUR_CHANNEL"
 }
