@@ -2,8 +2,8 @@
   "show_dialog": true,
   "allow_dont_show_again": false,
   "show_continue_button": true,
-  "force_update": true,
-  "latest_version_code": 5,
+  "force_update": false,
+  "latest_version_code": 1,
 
   "dialog_title": "OP MODS™",
   "dialog_subtitle": "Developed by OpMods",
