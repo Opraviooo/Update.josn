@@ -5,14 +5,19 @@
   "force_update": true,
   "latest_version_code": 1,
 
-  "dialog_title": "OPMODS99™",
-  "dialog_subtitle": "By OpMods",
-  "dialog_message": "Stay updated with the latest version of OpMods.",
+  "dialog_title": "OP MODS™",
+  "dialog_subtitle": "Developed by OpMods",
+  "dialog_message": "🔹 ** 𝙊𝙬𝙣𝙚𝙧 **: @OPMODDING
+🔹 **Reseller**: @NullcoderOp
+
+Beware of scams and unauthorized sellers. If you have any issues, please contact the official owner.
+
+Thank you for choosing OpMods",
   "dialog_button_continue": "Continue",
   "dialog_button_join": "Join Now",
-  "join_url": "https://t.me/YOUR_CHANNEL",
+  "join_url": "https://t.me/OP_MODS",
 
-  "telegram_url": "https://t.me/YOUR_CHANNEL",
-  "instagram_url": "https://instagram.com/YOUR_CHANNEL",
-  "youtube_url": "https://youtube.com/YOUR_CHANNEL"
+  "telegram_url": "https://t.me/OP_MODS",
+  "instagram_url": "https://t.me/OP_MODS",
+  "youtube_url": "https://t.me/OP_MODS"
 }
