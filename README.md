@@ -1,16 +1,28 @@
-Dvhw8RnSNhfBE7lU+2MmystLS1oc0q5+H/bmRe1S+omVb34za3Gdrd5+LU8HVDA/+h4JXXS6sxJE
-TCZikWZn+eH6Uq6X/6SWTUwQQI1gLajE/yPESVmFFQWdoB4vl2hLTFQdQyvWu4D2gnkkfPd7VYyj
-NrS674+jBUWa80MlXYtAfS4F9Q/qoWvjzEDvtnJOylpo0D3iZa2BHlZl4zXbeJj8MIZRuBtK2Ud7
-APM1QYHGWvwf6C/c+nJK0yJkDr+rV/bMsIbVdUUaJym1Ep/L7oKmd/r1JnBJFiKo37kTw0sRs1ah
-aw3fpKMJTXdm8xRz1J74ougIIJ40T0oCjCYa4lxd1ipyqjd73tByysNZ3hiaD9ZEmni8MdhNmkLN
-PI2rPNPDV3yQ03OSY9oDJWQZaLPuFRJgLlMd/u0TCkoAgTT6QuUTHP35fa2CVn+d+NBtLispAXSW
-kWgPq5QH6BiwVs3sxiI8q0Nmh93EHzWPX6HrA2IxESbcnqcZqe71Z6GEQEUF+G1KjE28pVKNMxhf
-P/LQoXWKdxRMfaq1cmrpIU9YlhWf9MCYCHgscGAjvN1n0xH5153cA4dOu8bNm2oH2spA56XD7ZVo
-2ciRAK6pkKkh11q8ZZfnsRkB+YeVbxfkhgvUpZ1ZjWFwXVApCnVYRlVfRDH+6T2krvnnWFi++jfW
-VqzeGjVp8yiICoUd0REeTgbilzQC+NTPiCrpPV3bEyT6VCjC04BphzoKAVoWIKd0+Odx5tu/EYFH
-kmtCDLq9HmFwXdiAMHSsUl+b6Q8ht4uhpDwCjLzFpKG8rrYRrzAfyppq3BCFl4lQ+P7S+R8Q2aI9
-neC/ti5V0Xs20uWC1NCdJGRcBjPA1VzWQHfTpvFf0W4MQZV2ED+aS5e2u2HC1ZjBqqBVTuZpojo5
-1hc5ldTvQ2NdElsnY+/dOpZTzDTeBwBLCWL56sO7XcZoOeo0S+3dycQREUzxIa/UdVrM2+HTxzZP
-3nUtG640H2U6nyYuQxgSKPok5Kz5rHmz4TF7mmdTSg4+xwpgjUE35yB3c6YvY6s9J+W1GdSRdfq4
-hKkJJbuKGA+tH1dxFtYvqND24PiOgczuqz0B4IheqFYrNDGPExppEFTtA7+eX06ir6aGkPjAgrt/
-A1dQsKw1WA/RhiLpkjKiSys7f4Kgi/pbrOgqLZs+lzOPh5Iqa0zWpxU=
+{
+  "dialog": {
+    "enabled": true,
+    "title": "OPMODS™",
+    "description": "Modified by OpMods. Stay updated with the latest modded apps and games.",
+    "telegram": "https://t.me/YOUR_CHANNEL",
+    "instagram": "https://instagram.com/YOUR_PAGE",
+    "youtube": "https://youtube.com/YOUR_CHANNEL",
+    "allow_play": true,
+    "join_now_link": "https://t.me/YOUR_CHANNEL",
+    "subtitle": "Developed by OpMods",
+    "join_now_text": "JOIN NOW",
+    "force_update": true,
+    "latest_version_code": 6
+  },
+  "orbital": {
+    "image_urls": [
+      "https://i.postimg.cc/3wKJ8qXC/lol.jpg",
+      "https://i.postimg.cc/sDQMqbmM/kj-worldlllllll-20250717-0001.jpg",
+      "https://i.postimg.cc/qvM6HwTm/20250805-152322.jpg",
+      "https://i.postimg.cc/sxTKLcD7/20250805-152649.jpg"
+    ],
+    "rotate_interval_seconds": 10
+  },
+  "netview": {
+    "bg_url": "https://i.postimg.cc/0QT4WmwT/nu.jpg"
+  }
+}
