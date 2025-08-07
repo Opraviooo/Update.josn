@@ -1,7 +1,7 @@
 {
   "show_dialog": true,
   "allow_dont_show_again": true,
-  "show_continue_button": true,
+  "show_continue_button": false,
   "dialog_title": "OPMODS99™",
   "dialog_subtitle": "By OpMods",
   "dialog_message": "Stay updated with the",
