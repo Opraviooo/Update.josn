@@ -2,7 +2,7 @@
   "show_dialog": true,
   "allow_dont_show_again": true,
   "show_continue_button": true,
-  "force_update": true,
+  "force_update": false,
   "latest_version_code": 5,
 
   "dialog_title": "OPMODS99™",
