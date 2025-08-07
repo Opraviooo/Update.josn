@@ -1,0 +1,18 @@
+{
+  "show_dialog": true,
+  "allow_dont_show_again": true,
+  "show_continue_button": true,
+  "force_update": false,
+  "latest_version_code": 5,
+
+  "dialog_title": "OPMODS99™",
+  "dialog_subtitle": "By OpMods",
+  "dialog_message": "Stay updated with the latest version of OpMods.",
+  "dialog_button_continue": "Continue",
+  "dialog_button_join": "Join Now",
+  "join_url": "https://t.me/YOUR_CHANNEL",
+
+  "telegram_url": "https://t.me/YOUR_CHANNEL",
+  "instagram_url": "https://instagram.com/YOUR_CHANNEL",
+  "youtube_url": "https://youtube.com/YOUR_CHANNEL"
+}
