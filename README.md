@@ -11,7 +11,7 @@
     "subtitle": "Developed by OpMods",
     "join_now_text": "JOIN NOW",
     "force_update": true,
-    "latest_version_code": 1
+    "latest_version_code": 4
   },
   "orbital": {
     "image_urls": [
