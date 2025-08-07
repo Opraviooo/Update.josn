@@ -1,14 +1,18 @@
 {
   "show_dialog": true,
-  "allow_dont_show_again": true,
+
   "dialog_title": "OPMODS99™",
-  "dialog_subtitle": "By OpMods",
+  "dialog_subtitle": "OPMODS99™",
   "dialog_message": "Stay updated with the latestgggggg modded apps, games, and updates.",
+
   "dialog_button_continue": "Continue",
   "dialog_button_join": "Join Now",
-  
-  "join_url": "https://t.me/YOUR_CHANNEL",
-  "telegram_url": "https://t.me/YOUR_CHANNEL",
-  "instagram_url": "https://instagram.com/YOUR_PAGE",
-  "youtube_url": "https://youtube.com/YOUR_CHANNEL"
+
+  "join_url": "https://t.me/your_join_link",
+  "telegram_url": "https://t.me/your_telegram",
+  "instagram_url": "https://instagram.com/your_page",
+  "youtube_url": "https://youtube.com/your_channel",
+
+  "hide_dismiss_button": false,  // true = hides "Continue" button
+  "allow_play": true             // optional: allow game start
 }
